@@ -1,0 +1,24 @@
+# C++ objects and libs
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.so.*
+*.dll
+*.dylib
+
+*~ core 
+.depend 
+.*.cmd 
+*.ko
+*.mod 
+*.mod.c 
+.tmp_versions 
+Module* 
+modules*
+
+build
+.vscode
